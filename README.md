@@ -1,4 +1,5 @@
 # Intro-Repo
-Getting Started
 
-Just a trial
+## Editing the file
+
+Its a markdown file in this reprosity
